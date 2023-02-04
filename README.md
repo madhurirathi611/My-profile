@@ -1,6 +1,6 @@
 # My-profile
 
-tools and Technologies:
+Tools and Technologies:
 Tools:
     1. vs code
     2. Github Desktop
